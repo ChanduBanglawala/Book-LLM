@@ -114,4 +114,6 @@ This project demonstrates practical experience in:
 
 
 ##Output
+
+
 <img width="1366" height="8230" alt="rag based result" src="https://github.com/user-attachments/assets/f4e2c64b-b55a-4b5d-a70e-f605630f9ce3" />
