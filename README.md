@@ -111,3 +111,7 @@ This project demonstrates practical experience in:
 * LangChain
 * Streamlit Application Development
 * Conversational AI Systems
+
+
+##Output
+<img width="1366" height="8230" alt="rag based result" src="https://github.com/user-attachments/assets/f4e2c64b-b55a-4b5d-a70e-f605630f9ce3" />
